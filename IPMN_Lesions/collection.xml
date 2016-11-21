@@ -4,8 +4,8 @@
 
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:IPMN_Lesions</field>
-    <field name="Name">Lesions of Intraductal Papillary Mucinous Neoplasm</field>
-    <field name="Description"></field>
+    <field name="CollectionName">Lesions of Intraductal Papillary Mucinous Neoplasm</field>
+    <field name="CollectionDescription"></field>
 
     <!-- CDEs -->
     <field name="Discipline">Pathology</field>
