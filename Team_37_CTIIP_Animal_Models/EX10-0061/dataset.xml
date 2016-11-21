@@ -3,7 +3,7 @@
   <doc>
 
     <!-- LabCAS core fields -->
-    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models:EX10-0061</field>
     <field name="CollectionId">urn:edrn:Team_37_CTIIP_Animal_Models</field>
     <field name="Name">EX10-0061</field>
     <field name="Version">1</field>
