@@ -1,0 +1,25 @@
+<add>
+
+  <doc>
+
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="CollectionId">urn:edrn:Team_37_CTIIP_Animal_Models</field>
+    <field name="Name">EX10-0061</field>
+    <field name="Version">1</field>
+    <field name="Description">CTIIP-1.1b. Mouse SSM2 (ER+) IHC4</field>
+
+
+    <!-- CDEs -->
+    <field name="Specimen">Mouse</field>
+    <field name="Gender">Female</field>
+    <field name="Diagnosis">Ephitelial Tumor</field>
+    
+    <!-- custom metadata -->
+    <field name="Cohort">Animal models-1</field>
+    <field name="Sub-Cohort">ER+ Tumors</field>
+    <field name="DataGroup">Team 37 CTIIP</field>
+
+  </doc>
+
+</add>

@@ -1,0 +1,80 @@
+<add>
+
+  <doc>
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-ER.svs</field>
+    <field name="CollectionId">urn:edrn:Team_37_CTIIP_Animal_Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="DatasetVersion">1</field>
+    <field name="Location">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="Name">EX10-0061-3N-ER.svs</field>
+    <field name="Size">95258671</field>
+  </doc>
+
+  <doc>
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-HE.svs</field>
+    <field name="CollectionId">urn:edrn:Team_37_CTIIP_Animal_Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="DatasetVersion">1</field>
+    <field name="Location">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="Name">EX10-0061-3N-HE.svs</field>
+    <field name="Size">110085667</field>
+  </doc>
+
+  <doc>
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-HER2.svs</field>
+    <field name="CollectionId">urn:edrn:Team_37_CTIIP_Animal_Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="DatasetVersion">1</field>
+    <field name="Location">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="Name">EX10-0061-3N-HER2.svs</field>
+    <field name="Size">93367003</field>
+  </doc>
+
+  <doc>
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-Ki67.svs</field>
+    <field name="CollectionId">urn:edrn:Team_37_CTIIP_Animal_Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="DatasetVersion">1</field>
+    <field name="Location">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="Name">EX10-0061-3N-Ki67.svs</field>
+    <field name="Size">112465407</field>
+  </doc>
+
+  <doc>
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-NegCon.svs</field>
+    <field name="CollectionId">urn:edrn:Team_37_CTIIP_Animal_Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="DatasetVersion">1</field>
+    <field name="Location">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="Name">EX10-0061-3N-NegCon.svs</field>
+    <field name="Size">87052961</field>
+  </doc>
+
+  <doc>
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-PR.svs</field>
+    <field name="CollectionId">urn:edrn:Team_37_CTIIP_Animal_Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="DatasetVersion">1</field>
+    <field name="Location">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="Name">EX10-0061-3N-PR.svs</field>
+    <field name="Size">97706737</field>
+  </doc>
+
+  <doc>
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.SpectrumData.csv</field>
+    <field name="CollectionId">urn:edrn:Team_37_CTIIP_Animal_Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="DatasetVersion">1</field>
+    <field name="Location">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="Name">SpectrumData.csv</field>
+    <field name="Size">8898</field>
+  </doc>
+
+</add>
