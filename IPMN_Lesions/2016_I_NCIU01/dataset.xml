@@ -1,0 +1,19 @@
+<add>
+
+  <doc>
+
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:IPMN_Lesions:2016_I_NCIU01</field>
+    <field name="CollectionId">urn:edrn:IPMN_Lesions</field>
+    <field name="Name">2016_I_NCIU01</field>
+    <field name="Version">1</field>
+    <field name="Description"></field>
+
+    <!-- CDEs -->
+    <field name="Specimen"></field>
+    <field name="Gender"></field>
+    <field name="Diagnosis"></field>
+    
+  </doc>
+
+</add>

@@ -1,0 +1,24 @@
+<add>
+
+  <doc>
+
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:IPMN_Lesions</field>
+    <field name="Name">Lesions of Intraductal Papillary Mucinous Neoplasm</field>
+    <field name="Description"></field>
+
+    <!-- CDEs -->
+    <field name="Discipline">Pathology</field>
+    <field name="LeadPI">Maitra Anirban</field>
+    <field name="OwnerPrincipal">MaitraAnirban</field>
+    <field name="QAState">Public</field>
+    <field name="Organ"></field>
+    <field name="Institution"></field>
+    <field name="ProtocolName"></field>
+    <field name="ProtocolId"></field>
+    <field name="CollaborativeGroup"></field>
+    <field name="Project"></field>
+
+  </doc>
+
+</add>

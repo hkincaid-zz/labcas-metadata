@@ -1,0 +1,25 @@
+<add>
+
+  <doc>
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:IPMN_Lesions:2016_I_NCIU01:2016_I_NCIU01_Subrata Sen_IPMN_DATA.xlsx</field>
+    <field name="CollectionId">urn:edrn:IPMN_Lesions</field>
+    <field name="DatasetId">urn:edrn:IPMN_Lesions:2016_I_NCIU01</field>
+    <field name="DatasetVersion">1</field>
+    <field name="Location">/usr/local/labcas_archive/IPMN_Lesions/2016_I_NCIU01/</field>
+    <field name="Name">2016_I_NCIU01_Subrata Sen_IPMN_DATA.xlsx</field>
+    <field name="Size">39076</field>
+  </doc>
+
+  <doc>
+    <!-- LabCAS core fields -->
+    <field name="id">urn:edrn:IPMN_Lesions:2016_I_NCIU01:2016_I_NCIU01_Subrata Sen_IPMN_FIGURES 1 and 2.pptx</field>
+    <field name="CollectionId">urn:edrn:IPMN_Lesions</field>
+    <field name="DatasetId">urn:edrn:IPMN_Lesions:2016_I_NCIU01</field>
+    <field name="DatasetVersion">1</field>
+    <field name="Location">/usr/local/labcas_archive/IPMN/2016_I_NCIU01/</field>
+    <field name="Name">2016_I_NCIU01_Subrata Sen_IPMN_FIGURES 1 and 2.pptx</field>
+    <field name="Size">11484498</field>
+  </doc>
+
+</add>
