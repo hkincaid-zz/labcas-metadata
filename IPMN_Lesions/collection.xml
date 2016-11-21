@@ -12,12 +12,11 @@
     <field name="LeadPI">Maitra Anirban</field>
     <field name="OwnerPrincipal">MaitraAnirban</field>
     <field name="QAState">Public</field>
-    <field name="Organ"></field>
-    <field name="Institution"></field>
-    <field name="ProtocolName"></field>
-    <field name="ProtocolId"></field>
-    <field name="CollaborativeGroup"></field>
-    <field name="Project"></field>
+    <field name="Organ">Pancreas</field>
+    <field name="Institution">MD Anderson Cancer Center</field>
+    <field name="ImagingTechnique">TMA (Tissue Micro Array)</field>
+    <field name="Project">N/A</field>
+    <field name="Species">Human</field>
 
   </doc>
 
