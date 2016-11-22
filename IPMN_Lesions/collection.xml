@@ -10,7 +10,7 @@
     <!-- CDEs -->
     <field name="Discipline">Pathology</field>
     <field name="LeadPI">Maitra Anirban</field>
-    <field name="OwnerPrincipal">MaitraAnirban</field>
+    <field name="OwnerPrincipal">cn=Crichton Jet Propulsion Laboratory,dc=edrn,dc=jpl,dc=nasa,dc=gov</field>
     <field name="QAState">Public</field>
     <field name="Organ">Pancreas</field>
     <field name="Institution">MD Anderson Cancer Center</field>
