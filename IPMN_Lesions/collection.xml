@@ -8,6 +8,7 @@
     <field name="CollectionDescription"></field>
 
     <!-- CDEs -->
+    <field name="Consortium">MCL</field>
     <field name="Discipline">Pathology</field>
     <field name="LeadPI">Maitra Anirban</field>
     <field name="OwnerPrincipal">uid=anirban,dc=edrn,dc=jpl,dc=nasa,dc=gov</field>
