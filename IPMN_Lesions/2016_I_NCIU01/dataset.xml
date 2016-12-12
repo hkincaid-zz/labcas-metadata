@@ -4,7 +4,7 @@
 
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:IPMN_Lesions.2016_I_NCIU01</field>
-    <field name="CollectionName">IPMN_Lesions</field>
+    <field name="CollectionName">IPMN Lesions</field>
     <field name="DatasetName">2016_I_NCIU01</field>
     <field name="DatasetVersion">1</field>
     <field name="DatasetDescription"></field>
