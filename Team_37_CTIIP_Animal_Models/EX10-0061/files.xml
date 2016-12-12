@@ -6,7 +6,7 @@
     <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
     <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
-    <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="FilePath">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-ER.svs</field>
     <field name="FileSize">95258671</field>
     <field name="FileType">application/aperio</field>
@@ -18,7 +18,7 @@
     <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
     <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
-    <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="FilePath">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-HE.svs</field>
     <field name="FileSize">110085667</field>
     <field name="FileType">application/aperio</field>
@@ -30,7 +30,7 @@
     <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
     <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
-    <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="FilePath">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-HER2.svs</field>
     <field name="FileSize">93367003</field>
     <field name="FileType">application/aperio</field>
@@ -42,7 +42,7 @@
     <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
     <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
-    <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="FilePath">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-Ki67.svs</field>
     <field name="FileSize">112465407</field>
     <field name="FileType">application/aperio</field>
@@ -54,7 +54,7 @@
     <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
     <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
-    <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="FilePath">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-NegCon.svs</field>
     <field name="FileSize">87052961</field>
     <field name="FileType">application/aperio</field>
@@ -66,7 +66,7 @@
     <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
     <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
-    <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="FilePath">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-PR.svs</field>
     <field name="FileSize">97706737</field>
     <field name="FileType">application/aperio</field>
@@ -78,7 +78,7 @@
     <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
     <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
-    <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
+    <field name="FilePath">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">SpectrumData.csv</field>
     <field name="FileSize">8898</field>
     <field name="FileType">application/aperio</field>
