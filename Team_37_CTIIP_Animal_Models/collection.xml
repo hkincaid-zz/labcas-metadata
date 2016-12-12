@@ -3,8 +3,8 @@
   <doc>
 
     <!-- LabCAS core fields -->
-    <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models</field>
-    <field name="CollectionName">Team 37 CTIIP Animal Models</field>
+    <field name="id">Team_37_CTIIP_Animal_Models</field>
+    <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
     <field name="CollectionDescription">Use-cases for the CTIIP for animal and human modeling</field>
 
     <!-- CDEs -->
