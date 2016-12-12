@@ -3,8 +3,8 @@
   <doc>
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-ER.svs</field>
-    <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
-    <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="CollectionName">Team 37 CTIIP Animal Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
     <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-ER.svs</field>
@@ -14,8 +14,8 @@
   <doc>
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-HE.svs</field>
-    <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
-    <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="CollectionName">Team 37 CTIIP Animal Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
     <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-HE.svs</field>
@@ -25,8 +25,8 @@
   <doc>
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-HER2.svs</field>
-    <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
-    <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="CollectionName">Team 37 CTIIP Animal Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
     <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-HER2.svs</field>
@@ -36,8 +36,8 @@
   <doc>
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-Ki67.svs</field>
-    <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
-    <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="CollectionName">Team 37 CTIIP Animal Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
     <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-Ki67.svs</field>
@@ -47,8 +47,8 @@
   <doc>
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-NegCon.svs</field>
-    <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
-    <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="CollectionName">Team 37 CTIIP Animal Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
     <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-NegCon.svs</field>
@@ -58,8 +58,8 @@
   <doc>
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.EX10-0061-3N-PR.svs</field>
-    <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
-    <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="CollectionName">Team 37 CTIIP Animal Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
     <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">EX10-0061-3N-PR.svs</field>
@@ -69,8 +69,8 @@
   <doc>
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061.SpectrumData.csv</field>
-    <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
-    <field name="DatasetId">Team_37_CTIIP_Animal_Models.EX10-0061</field>
+    <field name="CollectionName">Team 37 CTIIP Animal Models</field>
+    <field name="DatasetId">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
     <field name="DatasetVersion">1</field>
     <field name="FileLocation">/usr/local/labcas_archive/Team_37_CTIIP_Animal_Models/EX10-0061/</field>
     <field name="FileName">SpectrumData.csv</field>

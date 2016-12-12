@@ -4,7 +4,7 @@
 
     <!-- LabCAS core fields -->
     <field name="id">urn:edrn:Team_37_CTIIP_Animal_Models.EX10-0061</field>
-    <field name="CollectionName">Team_37_CTIIP_Animal_Models</field>
+    <field name="CollectionName">Team 37 CTIIP Animal Models</field>
     <field name="DatasetName">EX10-0061</field>
     <field name="DatasetVersion">1</field>
     <field name="DatasetDescription">CTIIP-1.1b. Mouse SSM2 (ER+) IHC4</field>
