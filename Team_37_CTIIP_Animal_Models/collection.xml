@@ -8,6 +8,7 @@
     <field name="CollectionDescription">Use-cases for the CTIIP for animal and human modeling</field>
 
     <!-- CDEs -->
+    <field name="Consortium">MCL</field>
     <field name="Discipline">Pathology</field>
     <field name="LeadPI">Robert D. Cardiff</field>
     <field name="OwnerPrincipal">uid=robert,dc=edrn,dc=jpl,dc=nasa,dc=gov</field>
